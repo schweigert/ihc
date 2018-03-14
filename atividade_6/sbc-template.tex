@@ -1,0 +1,88 @@
+\documentclass[12pt]{article}
+
+\usepackage{sbc-template}
+
+\usepackage{graphicx,url}
+
+\usepackage[brazil]{babel}   
+%\usepackage[latin1]{inputenc}  
+\usepackage[utf8]{inputenc}  
+% UTF-8 encoding is recommended by ShareLaTex
+
+     
+\sloppy
+
+\title{IHC: Usabilidade}
+
+\author{Marlon Henry Schweigert \inst{1}}
+
+
+\address{Centro de Ciências Tecnológicas - Universidade do Estado de Santa Catarina
+  \email{marlon.schweigert@edu.udesc.br}
+}
+
+\begin{document} 
+
+\maketitle
+     
+\begin{resumo} 
+  Este meta-artigo descreve a visão e comparação entre a ISO 9241, Nielsen e Cybis, comparando critérios de métrica, preocupação e utilidade.
+\end{resumo}
+
+
+\section{Introdução}
+
+Usabilidade é um critério para definir o quão útil / agradável algum usuário pode utilizar seu sistema, levando diversas considerações e teorias criadas com base a psicologia e design.
+
+Um objeto que é utilizável é aquele a qual é capaz de exercer seu objetivo de forma que mais ajude a qual atrapalhe o usuário.
+
+Vários autores visam criar conceitos de usabilidade para aterem dentro do ciclo de produção de produtos físicos e virtuais, focando o melhoramento de tais produtos. Este trabalho meta-artigo cria uma comparação entre a ISO 9241, Nielsen e Cybis, levando em conta as métricas obtidas pelas definições, as preocupações e a utilidade objetiva.
+
+\section{Conceitos de usabilidade} \label{sec:conceitos}
+
+\subsection{Usabilidade segundo ISO 9241}
+
+Segundo a ISO 9241~\cite{international1998iso} a usabilidade é uma medida, entendida como valores obtidos por testes, pelo qual usuários gerais podem alcançar objetivos específicos com afetividade (preocupa-se se o objetivo foi concluído), eficiência (preocupa-se com a quantia de recursos consumidos) e satisfação (conforto de usabilidade) em seu contexto de uso.
+
+A usabilidade também pode ser especificada com outras perspectivas como facilidade de aprendizado, facilidade de memorização e baixa taxa de erros.
+
+A utilização da usabilidade segundo a ISO é como uma métrica, a qual o objetivo é melhorar a interface com o usuário a cada nova avaliação de forma iterativa.
+
+\subsection{Usabilidade segundo Nielsen}
+
+Nielsen define usabilidade como um método para utilizar durante o processo de planejamento de interfaces.
+
+Segundo Nielsen \cite{nielsen1994usability}, a usabilidade é formada facilidade de aprendizagem, eficiência, facilidade de memorização, evasão de erros e satisfação. O atributo que diferencia a definição de Nielsen da ISO 9241 é a utilidade.
+
+A utilização da usabilidade segundo Nielsen é planejar levando em conta tais problemáticas tentando minimizar as ocorrências durante a utilização.
+
+\subsection{Usabilidade segundo Walter Cybis}
+
+Segundo Walter Cybis\cite{de2015ergonomia}, usabilidade é a qualidade que caracteriza o uso de um sistema interativo. Essa definição é muito mais abrangente comparado a ISO e Nielsen, visto que abrange a relação entre usuário, tarefa, interface, equipamentos e o ambiente a qual o sistema é utilizado.
+
+A utilização de usabilidade segundo Walter Cybis encontra-se durante o processo de desenho da interface, levando em conta escolhas dos usuários para tomada de decisão sobre o projeto.
+
+\subsection{Comparativo}
+
+\begin{table}[!htbp]
+\centering
+\caption{Comparação entre autores}
+\label{my-label}
+\begin{tabular}{|l|l|l|l|}
+\hline
+Característica & ISO 9241 & Nielsen & Cybis \\ \hline
+Métrica & \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}}A usabilidade em sí\\ é definida como um\\ número a ser \\ utilizável como\\ métrica.\end{tabular}} & \begin{tabular}[c]{@{}l@{}}Número de erros\\ cometidos pelo usuário.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Numero de erros\\ evitados pelo usuário.\end{tabular} \\ \hline
+Preocupação & \begin{tabular}[c]{@{}l@{}}Objetivo do usuário\\ pode ser concluído.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Preocupa-se em evitar\\ erros e facilitar o\\ aprendizado do usuário.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Preocupa-se em encontrar\\ os erros cometidos pelo\\ usuário para corrigilos\\  iterativamente.\end{tabular} \\ \hline
+Utilidade & \begin{tabular}[c]{@{}l@{}}Não se preocupa\\ com a utilidade,\\ desde que não afete\\ os testes para\\ o resultado final.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Preocupa-se muito\\ com a utilidade da\\ interface utilizada.\end{tabular} & \begin{tabular}[c]{@{}l@{}}Se preocupa com a utilidade\\  como um objeto \\ secundário, desde que \\ não leve o usuário ao erro.\end{tabular} \\ \hline
+\end{tabular}
+\end{table}
+
+
+\section{Conclusão}
+
+A definição de usabilidade varia conforme o autor, mas todas convergem a pontos comuns. Tais pontos podem ser brevemente descritos como evasão de erros por parte do usuário, facilidade de memorização e tratabilidade dos erros existentes.
+
+\bibliographystyle{sbc}
+\bibliography{sbc-template}
+
+\end{document}
