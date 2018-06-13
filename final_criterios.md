@@ -72,3 +72,12 @@ Quanto aos critérios de avaliação:
 10 - Sim
 11 - Sim
 12 - Sim
+
+# Grupo 5 - Let me seecolor.github.io
+
+Exibir o protótipo
+ - Adicionar imagem
+ - Selecionar pontos
+ - Explicar ColorADD
+ - Exportar imagem
+ - OpenSource \o/
