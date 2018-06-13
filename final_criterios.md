@@ -28,3 +28,72 @@ Quanto aos critérios de avaliação:
 11 - Sim.
 12 - Não, finalizou antes do tempo.
 
+# Grupo 2 - Evite Filas
+
+1 - Sim
+2 - Sim
+3 - Sim
+4 - Sim
+5 - sim
+6 - Sim - Organização não tão bem definida 
+7 - sim
+8 - sim
+9 - sim
+10 - sim
+11 - sim
+12 - sim
+
+# Grupo 3 - 
+
+1 - 
+2 -
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+9 -
+10 -
+11 -
+12 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
