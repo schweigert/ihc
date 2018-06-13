@@ -43,57 +43,32 @@ Quanto aos critérios de avaliação:
 11 - sim
 12 - sim
 
-# Grupo 3 - 
+# Grupo 3 - Mapas para cegos
 
-1 - 
-2 -
-3 -
-4 -
-5 -
-6 -
-7 -
-8 -
-9 -
-10 -
-11 -
-12 -
+1 - Sim
+2 - Não
+3 - Sim
+4 - Sim
+5 - Sim
+6 - Não, por muitas vezes não existia nenhum conteúdo nas transparências
+7 - Sim, exemplos foram dados
+8 - Não referênciaram documentários e conteúdos extras utilizados
+9 - Não
+10 - Foi encerrado com poucas conclusões
+11 - Parcialmente
+12 - Finalizou antes do tempo.
 
+# Grupo 4 - Sistema para gerenciamento de academias
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 - Sim
+2 - Sim
+3 - Sim
+4 - Sim
+5 - Sim
+6 - Sim
+7 - Sim
+8 - Sim
+9 - Sim
+10 - Sim
+11 - Sim
+12 - Sim
